@@ -37,26 +37,24 @@ h1 { /* Matches elements with h1 tag */
 	color: black;
 	margin: 5%;
 	padding: 6px;
-	float:left;
 	width: 20%;
+	float:left;
 	text-align: center;
 }
 
 #Annie{
 	color: black;
 	margin: 5%;
-	padding: 6px;
 	width: 20%;
-	float:center;
+	float:right;
 	text-align: center;
 }
 
 #Xin{
 	color: black;
 	margin: 5%;
-	padding: 6px;
-	float: right;
 	width: 20%;
+	float: right;
 }
 
 /* #div5{
