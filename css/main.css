@@ -24,7 +24,7 @@ h1 { /* Matches elements with h1 tag */
 	text-decoration: none;
 }
 
-#div1 { /* Matches element with id=SimpleDiv */
+#Statement { /* Matches element with id=SimpleDiv */
 	background-color: none;
 
 	color: none;
@@ -33,7 +33,7 @@ h1 { /* Matches elements with h1 tag */
 	padding: 6px;
 }
 
-#div2{
+#Alex{
 	color: black;
 	margin: 5%;
 	padding: 6px;
@@ -42,19 +42,21 @@ h1 { /* Matches elements with h1 tag */
 	text-align: center;
 }
 
-#div3{
+#Annie{
 	color: black;
 	margin: 5%;
 	padding: 6px;
-	width: 50%;
+	width: 20%;
+	float:center;
+	text-align: center;
 }
 
-#div4{
+#Xin{
 	color: black;
 	margin: 5%;
 	padding: 6px;
 	float: right;
-	width: 50%;
+	width: 20%;
 }
 
 /* #div5{
