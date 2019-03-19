@@ -20,46 +20,47 @@ h2 { /* Matches elements with h2 tag */
 }
 
 h1 { /* Matches elements with h1 tag */
-	color: hotpink;
-	text-decoration: underline;
+	color: white;
+	text-decoration: none;
 }
 
 #div1 { /* Matches element with id=SimpleDiv */
-	background-color: blue;
+	background-color: none;
 
-	color: darkblue;
+	color: none;
 
-
-	border-style: solid groove;
-  border-width: 5px;
-	border-color: lightblue;
 	margin: 5%;
 	padding: 6px;
 }
 
 #div2{
 	color: black;
-	background-color: #cc1a54;
 	margin: 5%;
 	padding: 6px;
 	float:left;
 	width: 20%;
-	text-align: left;
+	text-align: center;
 }
 
 #div3{
 	color: black;
-	background-color: #f1ff47;
+	margin: 5%;
+	padding: 6px;
+	width: 50%;
+}
+
+#div4{
+	color: black;
 	margin: 5%;
 	padding: 6px;
 	float: right;
 	width: 50%;
 }
 
-#div4{
+/* #div5{
 	color: black;
 	background-color: #d307ff;
 	margin: 5%;
 	padding: 6px;
 	clear: both;
-}
+} */
