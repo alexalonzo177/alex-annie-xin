@@ -40,7 +40,6 @@ h1 { /* Matches elements with h1 tag */
 	padding: 6px;
 	width: 20%;
 	float: left;
-	text-align: center;
 }
 
 #Annie{
@@ -49,7 +48,6 @@ h1 { /* Matches elements with h1 tag */
 	padding: 6px;
 	width: 20%;
 	float: right;
-	text-align: center;
 }
 
 #Xin{
@@ -58,7 +56,6 @@ h1 { /* Matches elements with h1 tag */
 	padding: 6px;
 	width: 25%;
 	float: right;
-	text-align: center;
 }
 
 #alexpage{
