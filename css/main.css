@@ -35,27 +35,31 @@ h1 { /* Matches elements with h1 tag */
 	padding: 6px;
 }
 
-#div2{
-	color: black;
+#Alex{
+	color: white;
 	margin: 5%;
 	padding: 6px;
 	width: 20%;
+	float:left;
 	text-align: center;
 }
 
-#div3{
-	color: black;
+#Annie{
+	color: white;
 	margin: 5%;
 	padding: 6px;
-	width: 50%;
+	width: 20%;
+	float: right;
+	text-align: center;
 }
 
-#div4{
-	color: black;
+#Xin{
+	color: white;
 	margin: 5%;
 	padding: 6px;
+	width: 25%;
 	float: right;
-	width: 50%;
+	text-align: center;
 }
 
 #alexpage{
