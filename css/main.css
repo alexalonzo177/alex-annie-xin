@@ -71,9 +71,29 @@ h1 { /* Matches elements with h1 tag */
 }
 
 #alexpage3{
-	float:clear;
+	margin: 1%;
+	width: 100%;
+	clear: both;
+	text-align: center;
+}
+
+#alexpage4{
+	float:left;
 	margin: 5%;
 	width: 35%;
+}
+
+#alexpage5{
+	float:right;
+	margin: 5%;
+	width: 35%;
+}
+
+#alexpage6{
+	margin: 1%;
+	width: 100%;
+	clear: both;
+	text-align: center;
 }
 
 /* #div5{
