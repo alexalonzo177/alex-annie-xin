@@ -24,7 +24,6 @@ h1 { /* Matches elements with h1 tag */
 	a:hover {
 			color: lightblue;
 	}
-}
 
 #Statement { /* Matches element with id=SimpleDiv */
 	background-color: none;
@@ -40,7 +39,7 @@ h1 { /* Matches elements with h1 tag */
 	margin: 5%;
 	padding: 6px;
 	width: 20%;
-	float:left;
+	float: left;
 	text-align: center;
 }
 
