@@ -10,18 +10,20 @@ body { /* General style rules for the body section */
 	text-align: center;
 }
 
-h3 { /* Matches elements with h3 tag */
-	color: white;
-}
-
-h2 { /* Matches elements with h2 tag */
-	color: gray;
-	text-decoration: underline;
-}
-
 h1 { /* Matches elements with h1 tag */
 	color: white;
 	text-decoration: none;
+}
+
+	a:link {
+		color: white;
+	}
+	a:visited {
+      color: coral;
+    }
+	a:hover {
+			color: lightblue;
+	}
 }
 
 #Statement { /* Matches element with id=SimpleDiv */
@@ -55,6 +57,12 @@ h1 { /* Matches elements with h1 tag */
 	margin: 5%;
 	width: 25%;
 	float: right;
+}
+
+#alexpage{
+	float:left;
+	margin: 5%;
+	width: 20%;
 }
 
 /* #div5{
