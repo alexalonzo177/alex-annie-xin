@@ -75,6 +75,7 @@ h1 { /* Matches elements with h1 tag */
 	width: 100%;
 	clear: both;
 	text-align: center;
+	color: black
 }
 
 #alexpage4{
@@ -94,6 +95,27 @@ h1 { /* Matches elements with h1 tag */
 	width: 100%;
 	clear: both;
 	text-align: center;
+	color: black
+}
+
+#alexpage7{
+	float:left;
+	margin: 5%;
+	width: 35%;
+}
+
+#alexpage8{
+	float:right;
+	margin: 5%;
+	width: 35%;
+}
+
+#alexpage9{
+	margin: 1%;
+	width: 100%;
+	clear: both;
+	text-align: center;
+	color: black
 }
 
 /* #div5{
